@@ -1,13 +1,16 @@
 
 # Decathlon Technical Assessment for H2 2024 Data Analyst Internship
-I am thrilled to submit my assessment for the 2024 H2 Data Analyst Internship at Decathlon. <br />
+
 <br />
-This Jupyter Notebook, <strong><code>Decathlon_Technical_Assessment.ipynb</code></strong>, showcases my approach to the three assessment questions:<br /> 
+About the Notebook:<br />
+<br />
+<strong><code>Decathlon_Technical_Assessment.ipynb</code></strong>, showcases my approach to the three assessment questions:<br /> 
 Q1: SQL Querying <br />
 Q2: Exploratory Data Analysis <br />
 Q3: Proposal for Sales Forecasting <br />
+<br />
 
-About the Notebook:
+
 
 Comprehensive: The notebook addresses all three questions thoroughly, demonstrating my understanding of the tasks and my ability to apply data analysis skills to real-world scenarios.
 Structured: The code is well-organized and easy to follow, with clear explanations for each step taken.
